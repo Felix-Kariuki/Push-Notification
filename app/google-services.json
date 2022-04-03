@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "387475257331",
+    "firebase_url": "https://job-wira-default-rtdb.firebaseio.com",
+    "project_id": "job-wira",
+    "storage_bucket": "job-wira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387475257331:android:0bda37b0886193463dc486",
+        "android_client_info": {
+          "package_name": "com.flexcode.jobs_wira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387475257331-ah24q7n8011apa4pbtlqng3mrlptpo4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwIiaBgDHogF_WRqIQthlqEUs-zKucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387475257331-ah24q7n8011apa4pbtlqng3mrlptpo4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387475257331:android:d4cebc44850135043dc486",
+        "android_client_info": {
+          "package_name": "com.flexcode.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387475257331-ah24q7n8011apa4pbtlqng3mrlptpo4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwIiaBgDHogF_WRqIQthlqEUs-zKucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387475257331-ah24q7n8011apa4pbtlqng3mrlptpo4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387475257331:android:0877fc7a4e3a7f903dc486",
+        "android_client_info": {
+          "package_name": "com.flexcode.tusave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387475257331-ah24q7n8011apa4pbtlqng3mrlptpo4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwIiaBgDHogF_WRqIQthlqEUs-zKucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387475257331-ah24q7n8011apa4pbtlqng3mrlptpo4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
